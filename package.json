@@ -1,0 +1,16 @@
+{
+  "name": "panviva-node-sdk-es6-module-sample",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@panviva/node-sdk": "^2.0.7",
+    "dotenv": "^8.2.0"
+  }
+}
